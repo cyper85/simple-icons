@@ -1996,6 +1996,11 @@
             "source": "https://commons.wikimedia.org/wiki/Category:Deutsche_Bank_logos"
         },
         {
+            "title": "Deutsche Post",
+            "hex": "FFCC00",
+            "source": "https://de.wikipedia.org/wiki/Datei:Deutsche-post-horn.svg"
+        },
+        {
             "title": "dev.to",
             "hex": "0A0A0A",
             "source": "https://dev.to/"
